@@ -14,5 +14,4 @@
 synthesizer\saved_models\pretrained\pretrained.pt
 
 3. Launch the Toolbox 
-
- python demo_toolbox.py
+- python demo_toolbox.py
