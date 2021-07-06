@@ -13,5 +13,6 @@
 - Please ensure the file is extracted to this location within your local copy of the repository
 synthesizer\saved_models\pretrained\pretrained.pt
 
-3.Launch the Toolbox 
-python demo_toolbox.py
+3. Launch the Toolbox 
+
+ python demo_toolbox.py
